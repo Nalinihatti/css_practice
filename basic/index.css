@@ -1,0 +1,17 @@
+h1{
+    font-size: smaller;
+    text-align: center;
+    background-color: aqua;
+}
+p{
+    color: darkblue;
+}
+#article{
+    background-color: gray;
+}
+.paraclass{
+    background-color: blueviolet;
+}
+p,article{
+    width: 500px;
+}
